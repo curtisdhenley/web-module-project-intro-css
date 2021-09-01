@@ -128,6 +128,22 @@ nav a {
     background-color: #DDB9A3;
     color: #fff;
 }
-p.about-top {
-    
+/* Information section styling */
+.campfire-img, .camper-img {
+    width: 13%;
+    margin: 0 auto;
+}
+.campfire-text, .camper-text {
+    font-size: 1.5rem;
+    margin: 0 38%;
+    text-align: center;
+}
+/*Footer image styling */
+.footer-img {
+    background-image: url(/assets/footer_img.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
 }
